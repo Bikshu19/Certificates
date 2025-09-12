@@ -10,14 +10,14 @@ export default function App() {
 
   // Default coordinates
   const [coords, setCoords] = useState({
-    nameX: 615,
-    nameY: 793,
-    eventX: 670,
-    eventY: 887,
-    dateX: 230,
-    dateY: 982,
-    prizeX: 1058,
-    prizeY: 981,
+    nameX: 346,
+    nameY: 449,
+    eventX: 390,
+    eventY: 502,
+    dateX: 138,
+    dateY: 557,
+    prizeX: 565,
+    prizeY: 555,
   });
 
   const handleTemplateUpload = (e) => {
